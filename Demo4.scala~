@@ -9,6 +9,3 @@ object Demo4	{
 	return sum;
 	}
 }
-
-
-//This is a comment line..
