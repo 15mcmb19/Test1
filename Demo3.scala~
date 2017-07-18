@@ -9,7 +9,3 @@ object Demo3	{
 			println("This is else statement");
 		}
 	}
-//
-
-
-//This is a comment line.
